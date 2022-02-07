@@ -4,10 +4,12 @@
 
 * [Datavise](https://datavise.github.io/pages/)
 * [Buy This Book](https://datavise.github.io/pages/)
+* [Acknowledgements](README.md)
 
 ## Introduction
 
-* [Why Learn SQL?](README.md)
+* [Why Learn SQL?](<README (1).md>)
+* [Databases](introduction/databases.md)
 
 ## Selecting Data
 

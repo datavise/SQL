@@ -8,7 +8,7 @@
 ## Introduction
 
 * [Databases](README.md)
-* [What is SQL?](introduction/what-is-sql.md)
+* [Why Learn SQL?](introduction/why-learn-sql.md)
 
 ***
 

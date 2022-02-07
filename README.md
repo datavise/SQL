@@ -4,7 +4,7 @@ The world is becoming ever more data-driven. Every day, when we visit a website 
 
 
 
-All manner of businesses from Fortune 500s to startups use databases, and within those companies, it's not just the data scientists who need access to the company's data, but all roles including marketing, project management, operations, and executives.
+All manner of businesses from Fortune 500s to startups use databases, and within those companies, it's not just the data scientists and software developers who need access to the company's data, but people working in all roles including marketing, project management, operations, and executives.
 
 
 

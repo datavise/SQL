@@ -7,12 +7,7 @@
 
 ## Introduction
 
-* [Databases](README.md)
-* [Why Learn SQL?](introduction/why-learn-sql.md)
-
-***
-
-* [Ranges](ranges.md)
+* [Why Learn SQL?](README.md)
 
 ## Selecting Data
 

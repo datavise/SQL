@@ -32,7 +32,19 @@ Note that if a table name consists of more than one word, it will need to be wra
 
 
 
+The simplest SELECT STATMENT uses \* to select all columns:
+
+`SELECT * FROM Movies`
+
+Executing this SELECT in SQLite gives the following result:
 
 
 
+![](../.gitbook/assets/select.jpg)
+
+You can limit the number of columns selected by listing the columns:
+
+`SELECT movie_id, title from Movies`
+
+![](../.gitbook/assets/select\_columns.jpg)
 

@@ -1,6 +1,6 @@
 # SELECT
 
-The most basic form of the select statement looks as follows:
+The most basic form of the SELECT statement looks as follows:
 
 `SELECT ColumnNames`&#x20;
 
@@ -24,6 +24,8 @@ There are several optional parts to the statement, including:
 
 
 
+**Table Names**
+
 Note that if a table name consists of more than one word, it will need to be wrapped in parentheses like this:&#x20;
 
 `SELECT Column`&#x20;
@@ -32,15 +34,19 @@ Note that if a table name consists of more than one word, it will need to be wra
 
 
 
+**Using \***
+
 The simplest SELECT STATMENT uses \* to select all columns:
 
 `SELECT * FROM Movies`
 
 Executing this SELECT in SQLite gives the following result:
 
-
-
 ![](../.gitbook/assets/select.jpg)
+
+
+
+**Columns**
 
 You can limit the number of columns selected by listing the columns:
 

@@ -15,7 +15,6 @@
 
 * [SELECT](selecting-data/select.md)
 * [WHERE](selecting-data/where.md)
-* [Operators](selecting-data/operators.md)
 * [DISTINCT](selecting-data/distinct.md)
 * [Wildcards](selecting-data/wildcards.md)
 * [ORDER BY](selecting-data/order-by.md)

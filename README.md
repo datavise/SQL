@@ -1,12 +1,11 @@
-# Acknowledgements
+# Why Learn SQL?
 
-I make use of a concise version of the open Movies Dataset. The full version can be found here:
+The world is becoming ever more data-driven. Every day, when we visit a website on the Internet, the information is retrieved from databases, whether it be product information, flight schedules, or the weather.
 
-{% embed url="https://www.kaggle.com/rounakbanik/the-movies-dataset" %}
 
-The concise version can be found here:
 
-{% embed url="https://datavise.github.io/pages" %}
-Concise Movies Dataset
-{% endembed %}
+All manner of businesses from Fortune 500s to startups use databases, and within those companies, it's not just the data scientists and software developers who need access to the company's data, but people working in all roles including marketing, project management, operations, and executives.
 
+
+
+Increasingly, SQL is becoming a useful business skill for just about anyone.

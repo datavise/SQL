@@ -12,4 +12,4 @@ ORDER BY year DESC
 
 
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/avg.png)

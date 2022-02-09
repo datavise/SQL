@@ -19,12 +19,6 @@
 * [Wildcards](selecting-data/wildcards.md)
 * [ORDER BY](selecting-data/order-by.md)
 * [Aliases](selecting-data/aliases.md)
-* [Ranges](selecting-data/ranges.md)
-* [NULL Values](selecting-data/null-values.md)
-
-## Joins
-
-* [INNER JOIN](joins/inner-join.md)
 
 ## Aggregate Functions
 
@@ -32,17 +26,23 @@
 * [SUM](aggregate-functions/sum.md)
 * [AVG](aggregate-functions/avg.md)
 * [MIN & MAX](aggregate-functions/min-and-max.md)
+* [NULL Values](aggregate-functions/null-values.md)
+
+## Grouping
+
+* [GROUP BY](grouping/group-by.md)
+* [HAVING](grouping/having.md)
+* [CASE](grouping/case.md)
+
+## Joins
+
+* [INNER JOIN](joins/inner-join.md)
 
 ## Modifying Data
 
 * [INSERT](modifying-data/insert.md)
 * [UPDATE](modifying-data/update.md)
 * [DELETE](modifying-data/delete.md)
-
-## Grouping
-
-* [GROUP BY](grouping/group-by.md)
-* [HAVING](grouping/having.md)
 
 ## Databases
 

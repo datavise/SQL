@@ -10,7 +10,7 @@ Looking at the release date column, you'll notice that the date is in the format
 
 ``
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/release.png)
 
 
 
@@ -22,7 +22,7 @@ If we wanted to get just the year part, we could use the SUBSTR function:
 
 `FROM movies`
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/substr.png)
 
 
 

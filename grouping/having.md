@@ -22,5 +22,5 @@ The following query will display the years in which the total of all movie budge
 
 
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/having.png)
 

@@ -32,7 +32,6 @@
 
 ## Grouping
 
-* [GROUP BY](grouping/group-by.md)
 * [HAVING](grouping/having.md)
 * [CASE](grouping/case.md)
 
